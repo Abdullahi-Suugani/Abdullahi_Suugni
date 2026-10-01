@@ -11,7 +11,7 @@ authentication, and AI engineering.
 I enjoy learning new technologies, solving real-world problems,
 and turning ideas into practical software solutions.
 
----
+
 
 ## FOCUS
 
