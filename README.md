@@ -69,4 +69,4 @@ Git • GitHub • Postman • Prisma
 www.linkedin.com/in/abdullahi-aden-abdi
 
 **Portfolio:**  
-abdullahi-adan.vercel.app
+https://abdullahi-adan.vercel.app/
