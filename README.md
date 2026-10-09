@@ -1,4 +1,4 @@
-# Abdullahi Aden Abdi {Suugani}
+# Abdullahi Aden Abdi 
 
 ### Backend Software Engineer
 
