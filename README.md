@@ -2,6 +2,7 @@
 
 ### Backend Software Engineer
 
+
 I’m a self-taught software developer and Computer Science student
 passionate about building modern and scalable applications.
 
